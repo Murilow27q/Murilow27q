@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Nada
 - 💞️ I’m looking to collaborate on Nada
 - 📫 How to reach me 
-- 😄 Pronouns: Ele/dela
+- 😄 Pronouns: Ele/dele
 - ⚡ Fun fact: ...
 
 <!---
